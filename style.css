@@ -10,7 +10,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 8%;
+    margin-bottom: 5%;
 }
 .half-width{
     width: 80%;
@@ -41,8 +41,7 @@ h1{
 .pic{
     width: 340px;
     height: 240px;
-    border-radius: 10%;
-    
+    border-radius: 10%;   
 }
 .recipe-item{
     width: 22%;
@@ -63,8 +62,7 @@ h1{
     width: 100px;
     height: 100px;
     margin-left: 550%;
-    cursor: pointer;
-   
+    cursor: pointer;  
 }
 footer{
     text-align: center;
